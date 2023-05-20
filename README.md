@@ -2,6 +2,14 @@
 
 A tiny Json parsing library written in Java for no reason whatsoever. Use it at your own risk. Does not support many things.
 
+```xml
+<dependency>
+  <groupId>io.rhaeguard</groupId>
+  <artifactId>jsonx</artifactId>
+  <version>VERSION</version>
+</dependency>
+```
+
 Example:
 
 ```java
